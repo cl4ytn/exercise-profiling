@@ -1,4 +1,22 @@
 Module 5
+/all-student-name
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_4.png](img_4.png)
+![img_5.png](img_5.png)
+
+/highest-gpa
+![img_7.png](img_7.png)
+![img_8.png](img_8.png)
+![img_9.png](img_9.png)
+![img_6.png](img_6.png)
+
+/all-student-name command line
+![img_11.png](img_11.png)
+
+/highest-gpa command line
+![img_12.png](img_12.png)
+
 Reflection:
 1. Jmeter is designed to simulate user behavior and measures performance under different loads and conditions. This is done through test plans that are created for to test different scenarios. In the context of optimizing application performance, Jmeter helps identify performance issues by analyzing how the system handles under load and whether performance requirements are met. IntelliJ profiler analyzes the runtime behavior of Java applications. When the application is run, the profiler collects runtime data, CPU usage, memory allocation, and method execution. In the context of optimizing application performance, IntelliJ profiler pinpoints parts of code that take up excessive resources.
 2. The profiling process helps identify weak points in applications by analyzing performance bottlenecks, hotspots in code, memory leaks, and thread activity.
